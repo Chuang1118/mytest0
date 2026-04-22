@@ -5,6 +5,6 @@
 
   # Chuang1118's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[chuang1118.github.io/mytest0](https://chuang1118.github.io/mytest0)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
